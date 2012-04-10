@@ -2,7 +2,7 @@ name = 'Jamie'
 
 puts name
 
-puts "hellooooooooo world"
+puts "hello world"
 
 puts "mhfkhgv"
 
